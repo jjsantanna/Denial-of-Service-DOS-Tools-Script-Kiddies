@@ -1,4 +1,7 @@
-# testing_dos_tools
+# List of Denial of Service (DoS) Tools 
+The main goal of this repository is to facilitate the access to existing DoS tools. Some of the original links are not working anymore. For this reason we download the tools and make them available. It is important to emphacise that performing DDoS attack is (usually) a crime. One exception is to use these tools for researching purpose in a closed environment. There are another very few exceptions but I will not tell you. Contact me (j.j.santanna@utwente.nl) if you want to know more.
+
+Here is the list of DoS tools that we have collected:
 
 | Name | Version                                               | Version      | Original Link |
 |------|-------------------------------------------------------|--------------|---|
