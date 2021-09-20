@@ -5,57 +5,95 @@ Some of these tools are still used in campaigns or operations (#op...) by script
 
 Here is the list of DoS tools that we have collected:
 
-| Name | Version                                               | Version      | Original Link |
-|------|-------------------------------------------------------|--------------|---|
-| 1    | AnonGhost Ddoser                                      | v 2.0        |   |
-| 2    | Anonymous-DOS                                         | 22-04-'12    |   |
-| 3    | BanglaDoS                                             | ?            |   |
-| 4    | BFF-DoS-Ping                                          | 1.0          |   |
-| 5    | ByteDos                                               | 3.2          |   |
-| 6    | CPU DEATH PING / Attack Ip by LaosOriginal            | ?            |   |
-| 7    | DaRK DDoSeR                                           | 5.6c         |   |
-| 8    | DDoS attacks via other sites execution tool (DAVOSET) | 1.2.5        |   |
-| 9    | DDoS Tracer                                           | 2.0.3        |   |
-| 10   | DDOSIM                                                | 0.2          |   |
-| 12   | Dereil                                                | 2.0.9.2      |   |
-| 13   | Dirt Jumper                                           | v5           |   |
-| 14   | DoS-HTTP                                              | ?            |   |
-| 15   | Fl0oD                                                 | ?            |   |
-| 16   | Floodnet                                              |              |   |
-| 17   | GoldenEye                                             | 26-3-'13     |   |
-| 18   | GoldenEye                                             | 2.1          |   |
-| 19   | GoldenEye                                             | 0.2          |   |
-| 20   | GoodBye                                               | v5.2         |   |
-| 21   | HOIC (High Orbit Ion Cannon)                          | 2.1.003      |   |
-| 22   | HolyOne Denyo                                         | v4.0         |   |
-| 23   | HULK (Http Unbearable Load King)                      | 1.0          |   |
-| 24   | HTTPDoSTool                                           | v3.6         |   |
-| 25   | HULK                                                  | v1.0         |   |
-| 26   | Hyenae                                                | v 0.36       |   |
-| 27   | JavaLOIC                                              | 0.0.3.7      |   |
-| 28   | Keep-Dead DoS                                         | ?            |   |
-| 29   | LOIC (Low Orbit Ion Cannon)                           | 1.0.8.0      |   |
-| 30   | OWASP DOS HTTP POST                                   | v3.6         |   |
-| 31   | Packet Flooder Tool                                   | ?            |   |
-| 32   | Packeth                                               | v1.6         |   |
-| 33   | Pandora DDoS                                          |              |   |
-| 34   | PentaSec                                              | ?            |   |
-| 35   | PHP DoS/DDoS                                          |              |   |
-| 36   | Pyloris (slow Dos)                                    | 3.2          |   |
-| 37   | R-U-Dead-Yet                                          | ?            |   |
-| 38   | r2dr2                                                 | 0.9.0.2      |   |
-| 39   | RUDY (r-u-dead-yet)                                   |              |   |
-| 40   | slowdeath                                             | ?            |   |
-| 41   | Slowloris (slow Dos)                                  | 1.0          |   |
-| 42   | SwitchBlade                                           | 4.0          |   |
-| 43   | SYN-Flood-DoS                                         | ?            |   |
-| 44   | TeV Dos                                               | ?            |   |
-| 45   | THC-SSL-DOS                                           | 1.4          |   |
-| 46   | Torshammer (slow Dos)                                 | 1.0          |   |
-| 47   | Turbinas Volk                                         | S1.0         |   |
-| 48   | UDP Unicorn                                           | 2.0          |   |
-| 49   | UDPFlood                                              | v 2.0        |   |
-| 50   | WebLOAD                                               | 8.1.0.141.en |   |
-| 51   | XerXes                                                |              |   |
-| 52   | xeushack                                              |              |   |
-| 53   | xoic                                                  | 1.3          |   |
+| Name                                                  |Downloaded|Link| 
+|-------------------------------------------------------|-||---|
+| AnonGhost Ddoser                                      |N||
+| AnonMafia Cyber Family Doser                          |Y|[sourceforge](https://sourceforge.net/projects/anonmafiacyberfamilydoser/files/AnonMafia%20Cyber%20Family%20DOSER.zip/download)| 
+| Anonymous-DOS                                         |||
+| AnDDoS                                                |Y|[sourceforge](https://sourceforge.net/projects/anddos)|
+| AnFlood                                               ||[sourceforge](https://sourceforge.net/projects/anflood/)|
+| Armagedōn-LOIC                                        ||[sourceforge](https://sourceforge.net/projects/armagednddos/)|
+| Armagedōn2-LOIC                                       ||[sourceforge](https://sourceforge.net/projects/armagedon2loic/)
+| BanglaDoS                                             ||[sourceforge](https://sourceforge.net/projects/banglados/)|
+| BFF-DoS-Ping                                          |||
+| ByteDos                                               |||
+| CPU DEATH PING / Attack Ip by LaosOriginal            |||
+| Class DoS Attacker                                    ||[sourceforge](https://sourceforge.net/projects/class-dos-attacker/)|
+| DaRK DDoSeR                                           |||
+| DoS as you are                                        ||[sourceforge](https://sourceforge.net/projects/dosasyouare/)|
+| DDoS Attack                                           ||[sourceforge](https://sourceforge.net/projects/ddosatack/)|
+| DDoS attacks via other sites execution tool (DAVOSET) ||[Github](https://github.com/MustLive/DAVOSET)|
+| DDoS Tracer                                           |||
+| DDOSIM                                                ||[sourceforge](https://sourceforge.net/projects/ddosim/)|
+| Dereil                                                |||
+| Dirt Jumper                                           |||
+| DoS-HTTP                                              |||
+| EbraSha DoS Attacker ver 4.0                          ||[sourceforge](https://sourceforge.net/projects/ebrashadosattackerver40/)|
+| Expert Security Tester                                ||[sourceforge](https://sourceforge.net/projects/securitytester/)|
+| Falcon Attacker                                       ||[sourceforge](https://sourceforge.net/projects/falcon-attacker/)|
+| Fl0oD                                                 |||
+| FUDP                                                  ||[sourceforge](https://sourceforge.net/projects/usoft/)|
+| Floodtrooper Http Botnet                              ||[sourceforge](https://sourceforge.net/projects/floodtrooperhtt/)|
+| Floodnet                                              |||
+| GoldenEye                                             ||[sourceforge](https://sourceforge.net/projects/goldeneye/)|
+| GoodBye                                               |||
+| HOIC (High Orbit Ion Cannon)                          |Y|[sourceforge](https://sourceforge.net/projects/highorbitioncannon/)|
+| HOIC v2                                               ||[sourceforge](https://sourceforge.net/projects/hight-orbit-ion-cannon-v2/)|
+| HolyOne Denyo                                         |||
+| HULK (HTTP Unbearable Load King)                      |||
+| HTTPDoSTool                                           |||
+| HTTP Flooder Cannon                                   |||[sourceforge](https://sourceforge.net/projects/httpcannon/)
+| Hyenae                                                ||[sourceforge](https://sourceforge.net/projects/hyenae/)|
+| Hyenae NG                                             ||[sourceforge](https://sourceforge.net/projects/hyenae-ng/) [github](https://github.com/r-richter/hyenae-ng/)|
+| Janibot IRC Botnet                                    ||[sourceforge](https://sourceforge.net/projects/janibot/)|
+| JavaLOIC                                              ||[sourceforge](https://sourceforge.net/projects/subsystemloic/)|
+| Keep-Dead DoS                                         |||
+| LOIC (Low Orbit Ion Cannon)                           |Y|[sourceforge](https://sourceforge.net/projects/loic/)|
+| MaddStress                                            ||[sourceforge](https://sourceforge.net/projects/maddstress/)|
+| MaxCannon                                             ||[sourceforge](https://sourceforge.net/projects/maxcannon/)|
+| Moihack Port-Flooder                                  ||[sourceforge](https://sourceforge.net/projects/moidosflooder/)|
+| NCDoS                                                 ||[sourceforge](https://sourceforge.net/projects/ncdos/)|
+| NEAF                                                  ||[sourceforge](https://sourceforge.net/projects/neaf/)|
+| Network Sending Packet Generator                      ||[sourceforge](https://sourceforge.net/projects/nspg/)|
+| Netstorm                                              ||[sourceforge](https://sourceforge.net/projects/netstorm/)|
+| NetStress-NG                                          ||[sourceforge](https://sourceforge.net/projects/netstressng/)|
+| NightLight                                            ||[sourceforge](https://sourceforge.net/projects/nightlight/)|
+| OWASP DOS HTTP POST                                   |||
+| Packet Flood Generator                                ||[sourceforge](https://sourceforge.net/projects/pfgen/)|
+| Packet Flooder Tool                                   |||
+| Packeth                                               |||
+| Pandora DDoS                                          |||
+| PentaSec                                              |||
+| PHP DoS/DDoS                                          |||
+| Ping4real                                             ||sourceforge](https://sourceforge.net/projects/ping4real/)|
+| Porsale 3.0                                           ||[sourceforge](https://sourceforge.net/projects/porsale30/)|
+| Py Port Knocking project                              ||[sourceforge](https://sourceforge.net/projects/pypk/)|
+| PyNuker                                               ||[sourceforge](https://sourceforge.net/projects/pynuker/)|
+| Pyloris                                               ||[sourceforge](https://sourceforge.net/projects/pyloris/)|
+| RUDY (R-U-Dead-Yet)                                   ||[sourceforge](https://sourceforge.net/projects/r-u-dead-yet/)|
+| r2dr2                                                 |||
+| Slowdeath                                             |||
+| Slowloris                                             ||[sourceforge](https://sourceforge.net/projects/slowloris/)|
+| SwitchBlade                                           |||
+| Syn flooder                                           ||[sourceforge](https://sourceforge.net/projects/syn-flooder/)|
+| SYN-Flood-DoS                                         |||
+| SynScan5                                              ||[sourceforge](https://sourceforge.net/projects/synscan5/)|
+| TANK (The Anihilate Network Killer)                   ||[sourceforge](https://sourceforge.net/projects/t-a-n-k/)|
+| TeV Dos                                               |||
+| THC-SSL-DOS                                           |||
+| Torshammer (slow Dos)                                 ||[sourceforge](https://sourceforge.net/projects/torshammer/)|
+| Turbinas Volk                                         |||
+| UDP Unicorn                                           ||[sourceforge](https://sourceforge.net/projects/udpunicorn/)|
+| UDP Flooder v1000                                     ||[sourceforge](https://sourceforge.net/projects/udpflooderv1000/)|
+| UDP Flooder                                           ||[sourceforge](https://sourceforge.net/projects/udpflooder/)|
+| Ufonet                                                ||[sourceforge](https://sourceforge.net/projects/ufonet/)|
+| WebLOAD                                               |||
+| XerXes                                                |||
+| xeushack                                              |||
+| xoic                                                  |||
+
+# To be classified and evaluated
+- Performance (CPU, number of packets, packet size, packet frequency) for min and max variations
+- Types of attacks
+- Format (.exe, .py, .php )
+- Fingerprint?!
