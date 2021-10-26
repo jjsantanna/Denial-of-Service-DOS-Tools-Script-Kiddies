@@ -7,6 +7,7 @@ Here is the list of DoS tools that we have collected:
 
 | Name                                                  ||Link| 
 |-------------------------------------------------------|-|---|
+| AnonCannon JavaScript Attack                          |.jar|[sourceforge](https://sourceforge.net/projects/anonymoz/files/latest/download)|
 | AnonGhost Ddoser                                      |||
 | AnonMafia Cyber Family Doser                          |.exe|[sourceforge](https://sourceforge.net/projects/anonmafiacyberfamilydoser/files/AnonMafia%20Cyber%20Family%20DOSER.zip/download)| 
 | Anonymous-DOS                                         |||
@@ -49,6 +50,7 @@ Here is the list of DoS tools that we have collected:
 | JavaLOIC                                              |.exe|[sourceforge](https://sourceforge.net/projects/subsystemloic/)|
 | Keep-Dead DoS                                         |||
 | LOIC (Low Orbit Ion Cannon)                           |.exe|[sourceforge](https://sourceforge.net/projects/loic/)|
+| LOIC (Low Orbit Ion Cannon)                           |.jar||
 | MaddStress                                            |.exe|[sourceforge](https://sourceforge.net/projects/maddstress/)|
 | MaxCannon                                             |empty|[sourceforge](https://sourceforge.net/projects/maxcannon/)|
 | Moihack Port-Flooder                                  |.py|[sourceforge](https://sourceforge.net/projects/moidosflooder/)|
