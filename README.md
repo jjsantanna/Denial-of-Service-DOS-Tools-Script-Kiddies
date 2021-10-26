@@ -20,7 +20,7 @@ Here is the list of DoS tools that we have collected:
 | CPU DEATH PING / Attack Ip by LaosOriginal            |||
 | Class DoS Attacker                                    ||[sourceforge](https://sourceforge.net/projects/class-dos-attacker/)|
 | DaRK DDoSeR                                           |||
-| DoS as you are                                        ||[sourceforge](https://sourceforge.net/projects/dosasyouare/)|
+| DoS as you are (DAYA)                                 ||[sourceforge](https://sourceforge.net/projects/dosasyouare/)|
 | DDoS Attack                                           ||[sourceforge](https://sourceforge.net/projects/ddosatack/)|
 | DDoS attacks via other sites execution tool (DAVOSET) ||[Github](https://github.com/MustLive/DAVOSET)|
 | DDoS Tracer                                           |||
