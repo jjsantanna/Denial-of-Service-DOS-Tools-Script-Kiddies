@@ -38,7 +38,8 @@ Here is the list of DoS tools that we have collected:
 | Floodnet                                              |||
 | GoldenEye                                             |.py|[sourceforge](https://sourceforge.net/projects/goldeneye/)|
 | GoodBye                                               |||
-| HOIC (High Orbit Ion Cannon)                          |.rar|[sourceforge](https://sourceforge.net/projects/highorbitioncannon/)|
+| Hive Mind LOIC                                        |.exe|[sourceforge](https://sourceforge.net/projects/hivemindloic/)|
+| HOIC (High Orbit Ion Cannon)                          |.exe|[sourceforge](https://sourceforge.net/projects/highorbitioncannon/)|
 | HOIC v2                                               |empty|[sourceforge](https://sourceforge.net/projects/hight-orbit-ion-cannon-v2/)|
 | HolyOne Denyo                                         |||
 | HULK (HTTP Unbearable Load King)                      |||
