@@ -5,12 +5,12 @@ Some of these tools are still used in campaigns or operations (#op...) by script
 
 Here is the list of DoS tools that we have collected:
 
-| Name                                                  |Downloaded|Link| 
+| Name                                                  ||Link| 
 |-------------------------------------------------------|-|---|
-| AnonGhost Ddoser                                      |N||
-| AnonMafia Cyber Family Doser                          |Y|[sourceforge](https://sourceforge.net/projects/anonmafiacyberfamilydoser/files/AnonMafia%20Cyber%20Family%20DOSER.zip/download)| 
+| AnonGhost Ddoser                                      |||
+| AnonMafia Cyber Family Doser                          |.exe|[sourceforge](https://sourceforge.net/projects/anonmafiacyberfamilydoser/files/AnonMafia%20Cyber%20Family%20DOSER.zip/download)| 
 | Anonymous-DOS                                         |||
-| AnDDoS                                                |Y|[sourceforge](https://sourceforge.net/projects/anddos)|
+| AnDDoS                                                |.exe|[sourceforge](https://sourceforge.net/projects/anddos)|
 | AnFlood                                               ||[sourceforge](https://sourceforge.net/projects/anflood/)|
 | Armagedōn-LOIC                                        ||[sourceforge](https://sourceforge.net/projects/armagednddos/)|
 | Armagedōn2-LOIC                                       ||[sourceforge](https://sourceforge.net/projects/armagedon2loic/)
