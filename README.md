@@ -13,28 +13,28 @@ Here is the list of DoS tools that we have collected:
 | Anonymous-DOS                                         |||
 | AnDDoS                                                |.exe|[sourceforge](https://sourceforge.net/projects/anddos)|
 | AnFlood                                               |.apk|[sourceforge](https://sourceforge.net/projects/anflood/)|
-| Armagedōn-LOIC                                        ||[sourceforge](https://sourceforge.net/projects/armagednddos/)|
-| Armagedōn2-LOIC                                       ||[sourceforge](https://sourceforge.net/projects/armagedon2loic/)
-| BanglaDoS                                             ||[sourceforge](https://sourceforge.net/projects/banglados/)|
+| Armagedōn-LOIC                                        |.exe|[sourceforge](https://sourceforge.net/projects/armagednddos/)|
+| Armagedōn2-LOIC                                       |.exe|[sourceforge](https://sourceforge.net/projects/armagedon2loic/)
+| BanglaDoS                                             |.exe|[sourceforge](https://sourceforge.net/projects/banglados/)|
 | BFF-DoS-Ping                                          |||
 | ByteDos                                               |||
 | CPU DEATH PING / Attack Ip by LaosOriginal            |||
-| Class DoS Attacker                                    ||[sourceforge](https://sourceforge.net/projects/class-dos-attacker/)|
+| Class DoS Attacker                                    |.py|[sourceforge](https://sourceforge.net/projects/class-dos-attacker/)|
 | DaRK DDoSeR                                           |||
-| DoS as you are (DAYA)                                 ||[sourceforge](https://sourceforge.net/projects/dosasyouare/)|
-| DDoS Attack                                           ||[sourceforge](https://sourceforge.net/projects/ddosatack/)|
-| DDoS attacks via other sites execution tool (DAVOSET) ||[Github](https://github.com/MustLive/DAVOSET)|
+| DoS as you are (DAYA)                                 |.exe|[sourceforge](https://sourceforge.net/projects/dosasyouare/)|
+| DDoS Attack                                           |.exe|[sourceforge](https://sourceforge.net/projects/ddosatack/)|
+| DDoS attacks via other sites execution tool (DAVOSET) |.pl|[Github](https://github.com/MustLive/DAVOSET)|
 | DDoS Tracer                                           |||
-| DDOSIM                                                ||[sourceforge](https://sourceforge.net/projects/ddosim/)|
+| DDOSIM                                                |.cpp|[sourceforge](https://sourceforge.net/projects/ddosim/)|
 | Dereil                                                |||
 | Dirt Jumper                                           |||
 | DoS-HTTP                                              |||
-| EbraSha DoS Attacker ver 4.0                          ||[sourceforge](https://sourceforge.net/projects/ebrashadosattackerver40/)|
+| EbraSha DoS Attacker ver 4.0                          |?|[sourceforge](https://sourceforge.net/projects/ebrashadosattackerver40/)|
 | Expert Security Tester                                |empty|[sourceforge](https://sourceforge.net/projects/securitytester/)|
 | Falcon Attacker (harp)                                |.py|[sourceforge](https://sourceforge.net/projects/falcon-attacker/)|
 | Fl0oD                                                 |||
 | FUDP                                                  |.c|[sourceforge](https://sourceforge.net/projects/usoft/)|
-| Floodtrooper Http Botnet                              |.rar|[sourceforge](https://sourceforge.net/projects/floodtrooperhtt/)|
+| Floodtrooper Http Botnet                              |??|[sourceforge](https://sourceforge.net/projects/floodtrooperhtt/)|
 | Floodnet                                              |||
 | GoldenEye                                             |.py|[sourceforge](https://sourceforge.net/projects/goldeneye/)|
 | GoodBye                                               |||
@@ -60,7 +60,7 @@ Here is the list of DoS tools that we have collected:
 | Network Sending Packet Generator                      ||[sourceforge](https://sourceforge.net/projects/nspg/)|
 | Netstorm                                              |.pkg|[sourceforge](https://sourceforge.net/projects/netstorm/)|
 | NetStress-NG                                          ||[sourceforge](https://sourceforge.net/projects/netstressng/)|
-| NightLight                                            |.rar|[sourceforge](https://sourceforge.net/projects/nightlight/)|
+| NightLight                                            |.sln|[sourceforge](https://sourceforge.net/projects/nightlight/)|
 | OWASP DOS HTTP POST                                   |||
 | Packet Flood Generator (pfgen)                        |.c|[sourceforge](https://sourceforge.net/projects/pfgen/)|
 | Packet Flooder Tool                                   |||
