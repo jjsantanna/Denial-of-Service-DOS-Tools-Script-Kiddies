@@ -57,7 +57,7 @@ Here is the list of DoS tools that we have collected:
 | Moihack Port-Flooder                                  |.py|[sourceforge](https://sourceforge.net/projects/moidosflooder/)|
 | NCDoS                                                 |.py|[sourceforge](https://sourceforge.net/projects/ncdos/)|
 | NEAF                                                  |empty|[sourceforge](https://sourceforge.net/projects/neaf/)|
-| Network Sending Packet Generator                      ||[sourceforge](https://sourceforge.net/projects/nspg/)|
+| Network Sending Packet Generator                      |.pl|[sourceforge](https://sourceforge.net/projects/nspg/)|
 | Netstorm                                              |.pkg|[sourceforge](https://sourceforge.net/projects/netstorm/)|
 | NetStress-NG                                          ||[sourceforge](https://sourceforge.net/projects/netstressng/)|
 | NightLight                                            |.sln|[sourceforge](https://sourceforge.net/projects/nightlight/)|
