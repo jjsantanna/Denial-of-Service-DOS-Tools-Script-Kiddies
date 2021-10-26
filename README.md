@@ -29,64 +29,64 @@ Here is the list of DoS tools that we have collected:
 | Dirt Jumper                                           |||
 | DoS-HTTP                                              |||
 | EbraSha DoS Attacker ver 4.0                          ||[sourceforge](https://sourceforge.net/projects/ebrashadosattackerver40/)|
-| Expert Security Tester                                ||[sourceforge](https://sourceforge.net/projects/securitytester/)|
-| Falcon Attacker                                       ||[sourceforge](https://sourceforge.net/projects/falcon-attacker/)|
+| Expert Security Tester                                |empty|[sourceforge](https://sourceforge.net/projects/securitytester/)|
+| Falcon Attacker (harp)                                |.py|[sourceforge](https://sourceforge.net/projects/falcon-attacker/)|
 | Fl0oD                                                 |||
-| FUDP                                                  ||[sourceforge](https://sourceforge.net/projects/usoft/)|
-| Floodtrooper Http Botnet                              ||[sourceforge](https://sourceforge.net/projects/floodtrooperhtt/)|
+| FUDP                                                  |.c|[sourceforge](https://sourceforge.net/projects/usoft/)|
+| Floodtrooper Http Botnet                              |.rar|[sourceforge](https://sourceforge.net/projects/floodtrooperhtt/)|
 | Floodnet                                              |||
-| GoldenEye                                             ||[sourceforge](https://sourceforge.net/projects/goldeneye/)|
+| GoldenEye                                             |.py|[sourceforge](https://sourceforge.net/projects/goldeneye/)|
 | GoodBye                                               |||
-| HOIC (High Orbit Ion Cannon)                          |Y|[sourceforge](https://sourceforge.net/projects/highorbitioncannon/)|
-| HOIC v2                                               ||[sourceforge](https://sourceforge.net/projects/hight-orbit-ion-cannon-v2/)|
+| HOIC (High Orbit Ion Cannon)                          |.rar|[sourceforge](https://sourceforge.net/projects/highorbitioncannon/)|
+| HOIC v2                                               |empty|[sourceforge](https://sourceforge.net/projects/hight-orbit-ion-cannon-v2/)|
 | HolyOne Denyo                                         |||
 | HULK (HTTP Unbearable Load King)                      |||
 | HTTPDoSTool                                           |||
-| HTTP Flooder Cannon                                   |||[sourceforge](https://sourceforge.net/projects/httpcannon/)
-| Hyenae                                                ||[sourceforge](https://sourceforge.net/projects/hyenae/)|
+| HTTP Flooder Cannon                                   |.exe|[sourceforge](https://sourceforge.net/projects/httpcannon/)|
+| Hyenae                                                |.c|[sourceforge](https://sourceforge.net/projects/hyenae/)|
 | Hyenae NG                                             ||[sourceforge](https://sourceforge.net/projects/hyenae-ng/) [github](https://github.com/r-richter/hyenae-ng/)|
 | Janibot IRC Botnet                                    ||[sourceforge](https://sourceforge.net/projects/janibot/)|
-| JavaLOIC                                              ||[sourceforge](https://sourceforge.net/projects/subsystemloic/)|
+| JavaLOIC                                              |.exe|[sourceforge](https://sourceforge.net/projects/subsystemloic/)|
 | Keep-Dead DoS                                         |||
-| LOIC (Low Orbit Ion Cannon)                           |Y|[sourceforge](https://sourceforge.net/projects/loic/)|
-| MaddStress                                            ||[sourceforge](https://sourceforge.net/projects/maddstress/)|
-| MaxCannon                                             ||[sourceforge](https://sourceforge.net/projects/maxcannon/)|
-| Moihack Port-Flooder                                  ||[sourceforge](https://sourceforge.net/projects/moidosflooder/)|
-| NCDoS                                                 ||[sourceforge](https://sourceforge.net/projects/ncdos/)|
-| NEAF                                                  ||[sourceforge](https://sourceforge.net/projects/neaf/)|
+| LOIC (Low Orbit Ion Cannon)                           |.exe|[sourceforge](https://sourceforge.net/projects/loic/)|
+| MaddStress                                            |.exe|[sourceforge](https://sourceforge.net/projects/maddstress/)|
+| MaxCannon                                             |empty|[sourceforge](https://sourceforge.net/projects/maxcannon/)|
+| Moihack Port-Flooder                                  |.py|[sourceforge](https://sourceforge.net/projects/moidosflooder/)|
+| NCDoS                                                 |.py|[sourceforge](https://sourceforge.net/projects/ncdos/)|
+| NEAF                                                  |empty|[sourceforge](https://sourceforge.net/projects/neaf/)|
 | Network Sending Packet Generator                      ||[sourceforge](https://sourceforge.net/projects/nspg/)|
-| Netstorm                                              ||[sourceforge](https://sourceforge.net/projects/netstorm/)|
+| Netstorm                                              |.pkg|[sourceforge](https://sourceforge.net/projects/netstorm/)|
 | NetStress-NG                                          ||[sourceforge](https://sourceforge.net/projects/netstressng/)|
-| NightLight                                            ||[sourceforge](https://sourceforge.net/projects/nightlight/)|
+| NightLight                                            |.rar|[sourceforge](https://sourceforge.net/projects/nightlight/)|
 | OWASP DOS HTTP POST                                   |||
-| Packet Flood Generator                                ||[sourceforge](https://sourceforge.net/projects/pfgen/)|
+| Packet Flood Generator (pfgen)                        |.c|[sourceforge](https://sourceforge.net/projects/pfgen/)|
 | Packet Flooder Tool                                   |||
 | Packeth                                               |||
 | Pandora DDoS                                          |||
 | PentaSec                                              |||
 | PHP DoS/DDoS                                          |||
-| Ping4real                                             ||[sourceforge](https://sourceforge.net/projects/ping4real/)|
+| Ping4real                                             |.bdsproj|[sourceforge](https://sourceforge.net/projects/ping4real/)|
 | Porsale 3.0                                           ||[sourceforge](https://sourceforge.net/projects/porsale30/)|
-| Py Port Knocking project                              ||[sourceforge](https://sourceforge.net/projects/pypk/)|
-| PyNuker                                               ||[sourceforge](https://sourceforge.net/projects/pynuker/)|
-| Pyloris                                               ||[sourceforge](https://sourceforge.net/projects/pyloris/)|
-| RUDY (R-U-Dead-Yet)                                   ||[sourceforge](https://sourceforge.net/projects/r-u-dead-yet/)|
+| Py Port Knocking project                              |empty|[sourceforge](https://sourceforge.net/projects/pypk/)|
+| PyNuker                                               |.py|[sourceforge](https://sourceforge.net/projects/pynuker/)|
+| Pyloris                                               |.py|[sourceforge](https://sourceforge.net/projects/pyloris/)|
+| RUDY (R-U-Dead-Yet)                                   |.py|[sourceforge](https://sourceforge.net/projects/r-u-dead-yet/)|
 | r2dr2                                                 |||
 | Slowdeath                                             |||
-| Slowloris                                             ||[sourceforge](https://sourceforge.net/projects/slowloris/)|
+| Slowloris                                             |empty|[sourceforge](https://sourceforge.net/projects/slowloris/)|
 | SwitchBlade                                           |||
-| Syn flooder                                           ||[sourceforge](https://sourceforge.net/projects/syn-flooder/)|
+| Syn flooder                                           |.exe|[sourceforge](https://sourceforge.net/projects/syn-flooder/)|
 | SYN-Flood-DoS                                         |||
-| SynScan5                                              ||[sourceforge](https://sourceforge.net/projects/synscan5/)|
-| TANK (The Anihilate Network Killer)                   ||[sourceforge](https://sourceforge.net/projects/t-a-n-k/)|
+| SynScan5                                              |empty|[sourceforge](https://sourceforge.net/projects/synscan5/)|
+| TANK (The Anihilate Network Killer)                   |empty|[sourceforge](https://sourceforge.net/projects/t-a-n-k/)|
 | TeV Dos                                               |||
 | THC-SSL-DOS                                           |||
-| Torshammer (slow Dos)                                 ||[sourceforge](https://sourceforge.net/projects/torshammer/)|
+| Torshammer (slow Dos)                                 |.py|[sourceforge](https://sourceforge.net/projects/torshammer/)|
 | Turbinas Volk                                         |||
-| UDP Unicorn                                           ||[sourceforge](https://sourceforge.net/projects/udpunicorn/)|
-| UDP Flooder v1000                                     ||[sourceforge](https://sourceforge.net/projects/udpflooderv1000/)|
-| UDP Flooder                                           ||[sourceforge](https://sourceforge.net/projects/udpflooder/)|
-| Ufonet                                                ||[sourceforge](https://sourceforge.net/projects/ufonet/)|
+| UDP Unicorn                                           |.exe|[sourceforge](https://sourceforge.net/projects/udpunicorn/)|
+| UDP Flooder v1000                                     |blocked|[sourceforge](https://sourceforge.net/projects/udpflooderv1000/)|
+| UDP Flooder                                           |blocked|[sourceforge](https://sourceforge.net/projects/udpflooder/)|
+| Ufonet                                                |.py|[sourceforge](https://sourceforge.net/projects/ufonet/)|
 | WebLOAD                                               |||
 | XerXes                                                |||
 | xeushack                                              |||
