@@ -93,7 +93,7 @@ Here is the list of DoS tools that we have collected:
 | WebLOAD                                               |||
 | XerXes                                                |||
 | xeushack                                              |||
-| xoic                                                  |||
+| XOIC                                                  |.exe|[appnee](https://appnee.com/xoic/)|
 
 # To be classified and evaluated
 - Performance (CPU, number of packets, packet size, packet frequency) for min and max variations
