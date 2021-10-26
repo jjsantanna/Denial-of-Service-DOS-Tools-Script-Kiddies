@@ -11,7 +11,7 @@ Here is the list of DoS tools that we have collected:
 | AnonMafia Cyber Family Doser                          |.exe|[sourceforge](https://sourceforge.net/projects/anonmafiacyberfamilydoser/files/AnonMafia%20Cyber%20Family%20DOSER.zip/download)| 
 | Anonymous-DOS                                         |||
 | AnDDoS                                                |.exe|[sourceforge](https://sourceforge.net/projects/anddos)|
-| AnFlood                                               ||[sourceforge](https://sourceforge.net/projects/anflood/)|
+| AnFlood                                               |.apk|[sourceforge](https://sourceforge.net/projects/anflood/)|
 | Armagedōn-LOIC                                        ||[sourceforge](https://sourceforge.net/projects/armagednddos/)|
 | Armagedōn2-LOIC                                       ||[sourceforge](https://sourceforge.net/projects/armagedon2loic/)
 | BanglaDoS                                             ||[sourceforge](https://sourceforge.net/projects/banglados/)|
