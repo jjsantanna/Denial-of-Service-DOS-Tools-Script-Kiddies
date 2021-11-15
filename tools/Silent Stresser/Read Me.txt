@@ -1,0 +1,11 @@
+*//Silent Stresser Public Version 1.2.1\\*
+
+@copyright 2012-2013, Silent Stresser
+
+This is Public Version of Silent Stresser 1.2.1.
+
+In this version you have access to the Shells and Online server.
+
+In order to gain access to the VPS you need to order the paid version.
+
+contact the creator to order the latest version.
